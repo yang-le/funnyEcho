@@ -7,7 +7,7 @@ What can the echo command do in shell?
 | Function            | Summary                             |
 | ------------------- | ----------------------------------- |
 | echo_red            | echo a red colored string           |
-| echo_grenn          | echo a green colored string         |
+| echo_green          | echo a green colored string         |
 | spin                | echo a spin to the screen           |
 
 ### note on the usage of `spin`
